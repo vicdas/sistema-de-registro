@@ -4,6 +4,6 @@
 
 Para ejecurar el sistema debes poner:
 
-´´´```pm install react´´´
+`pm install react`
 
 Esto es una prueba
